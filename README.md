@@ -11,6 +11,9 @@ Install using your usual package manager. Using Vim-Plug the syntax is:
 ```
 Plug 'casserlyprogramming/diesel-vim'
 ```
+then run 
+
+`:PlugInstall`
 
 ## Usage
 
